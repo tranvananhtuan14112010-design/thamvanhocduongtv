@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+﻿(Trợ lý ảo A.I này phục vụ công tác tuyển sinh của Trường Trưng Vương Quảng Trị
+          do nhóm CLB Lập trình "tvs.ic" thiết kế và đào tạo) ﻿(Trợ lý A.I này phục vụ công tác THAM VẤN TÂM LÝ HỌC ĐƯỜNG của Trường Trưng Vương Quảng Trị
+﻿(Trợ lý A.I này phục vụ công tác THAM VẤN TÂM LÝ HỌC ĐƯỜNG của Trường Trưng Vương Quảng Trị
+          do nhóm CLB Lập trình LỚP 7B thiết kế và đào tạo) 
+=======
+﻿(Trợ lý ảo A.I này phục vụ công tác THAM VẤN TÂM LÝ HỌC ĐƯỜNG của Trường Trưng Vương Quảng Trị
+          do nhóm học sinh LỚP 10A thiết kế và đào tạo) 
+>>>>>>> d42e9d39f11d37527f3fa69372f2e97deb169ecc
