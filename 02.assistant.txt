@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -8,6 +9,12 @@
 >>>>>>> 6e5dd515687d1e399e3c58ba519d2d4497c63d4a
 >>>>>>> a2c5e6c0c7cb517edafb75cd431f18d310de5ee8
 =======
+=======
+﻿(Trợ lý ảo A.I này phục vụ công tác tuyển sinh của Trường Trưng Vương Quảng Trị
+          do nhóm CLB Lập trình "tvs.ic" thiết kế và đào tạo) ﻿(Trợ lý A.I này phục vụ công tác THAM VẤN TÂM LÝ HỌC ĐƯỜNG của Trường Trưng Vương Quảng Trị
+﻿(Trợ lý A.I này phục vụ công tác THAM VẤN TÂM LÝ HỌC ĐƯỜNG của Trường Trưng Vương Quảng Trị
+          do nhóm CLB Lập trình LỚP 10B thiết kế và đào tạo) 
+======
+>>>>>>> cc9c2f3def89a06a02f6787c06a4f8ca4bf96c56
 ﻿(Trợ lý ảo A.I này phục vụ công tác THAM VẤN TÂM LÝ HỌC ĐƯỜNG của Trường Trưng Vương Quảng Trị
           do nhóm học sinh LỚP 10A thiết kế và đào tạo) 
->>>>>>> d42e9d39f11d37527f3fa69372f2e97deb169ecc
